@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
     <img src="https://cdn.simpleicons.org/node.js" alt="Node.js" width="40">
   </a>
   <a href="https://expressjs.com">
-    <img src="https://cdn.simpleicons.org/express/white" alt="Express.js" width="40">
+    <img src="https://cdn.simpleicons.org/express" alt="Express.js" width="40">
   </a>  
   <a href="https://react.dev">
     <img src="https://cdn.simpleicons.org/react" alt="React.js" width="40">
@@ -38,17 +38,26 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
   <a href="https://tailwindcss.com">
     <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwindcss" width="40">
   </a>  
+  <a href="https://getbootstrap.com">
+    <img src="[https://cdn.simpleicons.org/bootstrap](https://cdn.simpleicons.org/bootstrap)" alt="Bootstrap" width="40">
+  </a>  
+  <a href="https://figma.com">
+    <img src="[https://cdn.simpleicons.org/figma](https://cdn.simpleicons.org/figma)" alt="Figma" width="40">
+  </a>
+  <a href="https://adobexdplatform.com">
+    <img src="[https://cdn.simpleicons.org/adobexd](https://cdn.simpleicons.org/adobexd)" alt="Adobe XD" width="40">
+  </a>
   <a href="https://www.mongodb.com">
     <img src="https://cdn.simpleicons.org/mongodb" alt="Mongodb" width="40">
   </a>  
   <a href="https://www.mysql.com">
     <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40">
-  </a>  
+  </a>
+  <a href="https://firebase.google.com">
+    <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="40">
+  </a>
   <a href="https://www.linux.org">
     <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40">
-  </a>  
-  <a href="https://axios-http.com">
-    <img src="https://cdn.simpleicons.org/axios" alt="Axios" width="40">
   </a>  
   <a href="https://www.postman.com">
     <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40">
