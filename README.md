@@ -39,13 +39,13 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
     <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwindcss" width="40">
   </a>  
   <a href="https://getbootstrap.com">
-    <img src="[https://cdn.simpleicons.org/bootstrap](https://cdn.simpleicons.org/bootstrap)" alt="Bootstrap" width="40">
+    <img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" width="40">
   </a>  
   <a href="https://figma.com">
-    <img src="[https://cdn.simpleicons.org/figma](https://cdn.simpleicons.org/figma)" alt="Figma" width="40">
+    <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="40">
   </a>
   <a href="https://adobexdplatform.com">
-    <img src="[https://cdn.simpleicons.org/adobexd](https://cdn.simpleicons.org/adobexd)" alt="Adobe XD" width="40">
+    <img src="https://cdn.simpleicons.org/adobexd" alt="AdobeXD" width="40">
   </a>
   <a href="https://www.mongodb.com">
     <img src="https://cdn.simpleicons.org/mongodb" alt="Mongodb" width="40">
