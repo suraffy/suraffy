@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 ## 🔧 Tech Proficiencies
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" {: style="color: blue; text-decoration: underline;"}>
+<a (https://developer.mozilla.org/en-US/docs/Web/JavaScript){: style="color: blue; text-decoration: underline;"}>
   <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="JS logo" width="40">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" {: style="color: blue; text-decoration: underline;"}>
+<a (https://developer.mozilla.org/en-US/docs/Web/CSS){: style="color: blue; text-decoration: underline;"}>
   <img src="https://cdn.simpleicons.org/css3/blue/dark" alt="Python logo" width="40">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" {: style="color: blue; text-decoration: underline;"}>
