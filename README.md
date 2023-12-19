@@ -11,13 +11,13 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 ## 🔧 Tech Proficiencies
 
-<a href="(https://developer.mozilla.org/en-US/docs/Web/JavaScript)" style="text-decoration: none;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" class="no-underline">
   <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="JS logo" width="40">
 </a>
-<a href="(https://developer.mozilla.org/en-US/docs/Web/CSS)" style="text-decoration: none;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" class="no-underline">
   <img src="https://cdn.simpleicons.org/css3/blue/dark" alt="Python logo" width="40">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="no-underline">
   <img src="https://cdn.simpleicons.org/html5" alt="Python logo" width="40">
 </a>
 <a href="https://nodejs.org" style="text-decoration: none;">
@@ -72,3 +72,9 @@ I'm always eager to learn and explore new technologies. Currently, I'm diving in
 ![Surafel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suraffy&show_icons=true&count_private=true&hide=contribs)
 
 Happy Coding! 🚀
+
+<style>
+  .no-underline {
+    text-decoration: none;
+  }
+</style>
