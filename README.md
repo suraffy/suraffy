@@ -77,4 +77,8 @@ Happy Coding! 🚀
   .no-underline {
     text-decoration: none;
   }
+
+  [data-a11y-link-underlines=true] .markdown-body a {
+    text-decoration: none;
+  }
 </style>
