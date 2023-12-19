@@ -1,17 +1,3 @@
-<style>
-  .no-underline {
-    text-decoration: none;
-  }
-
-  .markdown-body a[data-a11y-link-underlines=true] {
-  text-decoration: none;
-}
-
-  a[data-a11y-link-underlines=true] {
-  text-decoration: none;
-}
-</style>
-
 # Hi there! 👋 I'm Surafel Araya
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in creating engaging and responsive user interfaces. I love turning ideas into reality through code and design.
@@ -25,16 +11,16 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 ## 🔧 Tech Proficiencies
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" class="no-underline">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" {: style="color: blue; text-decoration: underline;"}>
   <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="JS logo" width="40">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" class="no-underline">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" {: style="color: blue; text-decoration: underline;"}>
   <img src="https://cdn.simpleicons.org/css3/blue/dark" alt="Python logo" width="40">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="no-underline">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" {: style="color: blue; text-decoration: underline;"}>
   <img src="https://cdn.simpleicons.org/html5" alt="Python logo" width="40">
 </a>
-<a href="https://nodejs.org" style="text-decoration: none;">
+<a href="https://nodejs.org" {: style="color: blue; text-decoration: underline;"}>
   <img src="https://cdn.simpleicons.org/node.js" alt="Node.js" width="40">
 </a>
 <a href="https://expressjs.com" style="text-decoration: none;">
