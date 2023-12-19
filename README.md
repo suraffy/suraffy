@@ -78,7 +78,7 @@ Happy Coding! 🚀
     text-decoration: none;
   }
 
-  .markdown-body a {
-    text-decoration: none;
-  }
+  a[data-a11y-link-underlines=true] {
+  text-decoration: none;
+}
 </style>
