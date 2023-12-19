@@ -1,3 +1,17 @@
+<style>
+  .no-underline {
+    text-decoration: none;
+  }
+
+  .markdown-body a[data-a11y-link-underlines=true] {
+  text-decoration: none;
+}
+
+  a[data-a11y-link-underlines=true] {
+  text-decoration: none;
+}
+</style>
+
 # Hi there! 👋 I'm Surafel Araya
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in creating engaging and responsive user interfaces. I love turning ideas into reality through code and design.
@@ -72,13 +86,3 @@ I'm always eager to learn and explore new technologies. Currently, I'm diving in
 ![Surafel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suraffy&show_icons=true&count_private=true&hide=contribs)
 
 Happy Coding! 🚀
-
-<style>
-  .no-underline {
-    text-decoration: none;
-  }
-
-  .markdown-body a[data-a11y-link-underlines=true] {
-  text-decoration: none;
-}
-</style>
