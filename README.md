@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 ## 🔧 Tech Proficiencies
 
-<a (https://developer.mozilla.org/en-US/docs/Web/JavaScript){: style="color: blue; text-decoration: underline;"}>
+<a href=(https://developer.mozilla.org/en-US/docs/Web/JavaScript){: style="color: blue; text-decoration: underline;"}>
   <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="JS logo" width="40">
 </a>
 <a (https://developer.mozilla.org/en-US/docs/Web/CSS){: style="color: blue; text-decoration: underline;"}>
