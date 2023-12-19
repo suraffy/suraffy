@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="">
   <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="JS logo" width="40">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://cdn.simpleicons.org/html5" alt="Python logo" width="40">
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://cdn.simpleicons.org/css3/blue/dark" alt="Python logo" width="40">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://cdn.simpleicons.org/html5" alt="Python logo" width="40">
 </a>
 <a href="https://nodejs.org">
   <img src="https://cdn.simpleicons.org/node.js" alt="Node.js" width="40">
