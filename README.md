@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Surafel Araya
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in creating engaging and responsive user interfaces. I love turning ideas into reality through code and design.
+Welcome to my GitHub profile! I'm a full-stack developer with expertise in creating engaging user interfaces. I love turning ideas into reality through code and design.
 
 ## 🚀 About Me
 
