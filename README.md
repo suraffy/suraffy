@@ -11,54 +11,22 @@ Welcome to my GitHub profile! I'm a full-stack developer with expertise in creat
 
 ## 🔧 Tech Proficiencies
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="">
-  <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="JS logo" width="40">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://cdn.simpleicons.org/css3/blue/dark" alt="Python logo" width="40">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://cdn.simpleicons.org/html5" alt="Python logo" width="40">
-</a>
-<a href="https://nodejs.org">
-  <img src="https://cdn.simpleicons.org/node.js" alt="Node.js" width="40">
-</a>
-<a href="https://expressjs.com">
-  <img src="https://cdn.simpleicons.org/express" alt="Express.js" width="40">
-</a>  
-<a href="https://react.dev">
-  <img src="https://cdn.simpleicons.org/react" alt="React.js" width="40">
-</a>
-<a href="https://vuejs.org">
-  <img src="https://cdn.simpleicons.org/vue.js" alt="Vue.js" width="40">
-</a>
-<a href="https://redux-toolkit.js.org">
-  <img src="https://cdn.simpleicons.org/redux" alt="Redux-toolkit" width="40">
-</a>
-<a href="https://tailwindcss.com">
-  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwindcss" width="40">
-</a>  
-<a href="https://getbootstrap.com">
-  <img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" width="40">
-</a>
-<a href="https://www.mongodb.com">
-  <img src="https://cdn.simpleicons.org/mongodb" alt="Mongodb" width="40">
-</a>  
-<a href="https://www.mysql.com">
-  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40">
-</a>
-<a href="https://figma.com">
-  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="40">
-</a>
-<a href="https://adobexdplatform.com">
-  <img src="https://cdn.simpleicons.org/adobexd" alt="AdobeXD" width="40">
-</a>
-<a href="https://firebase.google.com">
-  <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="40">
-</a>
-<a href="https://www.linux.org">
-  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40">
-</a>  
-<a href="https://www.postman.com">
-  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40">
-</a>
+<div align=center>
+  <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="JS logo" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/css3/blue/dark" alt="Python logo" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/html5" alt="Python logo" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/node.js" alt="Node.js" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/express" alt="Express.js" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/react" alt="React.js" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/vue.js" alt="Vue.js" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/redux" alt="Redux-toolkit" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwindcss" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/mongodb" alt="Mongodb" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/adobexd" alt="AdobeXD" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" style="border-radius: 5px">
+  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40" style="border-radius: 5px">
+</div>
