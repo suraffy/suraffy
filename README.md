@@ -11,8 +11,6 @@ Welcome to my GitHub profile! I'm a full-stack developer with expertise in creat
 
 ## 🔧 Tech Proficiencies
 
-<div align=center>
-  <a href="https://skillicons.dev">
+<div>
     <img src="https://skillicons.dev/icons?i=js,ts,css,html,nodejs,express,react,vue,redux,sass,tailwind,bootstrap,mongodb,mysql,figma,xd,firebase,postman,linux" />
-  </a>
 </div>
