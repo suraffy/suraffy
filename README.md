@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a full-stack developer with expertise in creat
 ## 🚀 About Me
 
 - 💻 Full-Stack Developer
-- 🎨 Web Designer
 - 🌐 [Portfolio](https://suraffy.netlify.app)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/surafel-araya)
 
