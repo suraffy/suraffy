@@ -15,13 +15,3 @@ Welcome to my GitHub profile! I'm a full-stack developer with expertise in creat
     <img src="https://skillicons.dev/icons?i=js,ts,css,html,nodejs,express,react,nextjs,redux,vue,sass,tailwind,bootstrap,mongodb,mysql,figma,xd,firebase,postman,linux" />
   </a>
 </div>
-
-## 🌱 Currently Learning
-
-I'm always eager to learn and explore new technologies. Currently, I'm diving into Next.js.
-
-## 📈 GitHub Stats
-
-![Surafel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suraffy&show_icons=true&count_private=true&hide=contribs)
-
-Happy Coding! 🚀
