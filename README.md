@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Surafel Araya
+# Hi there! 👋 I'm Surafel
 
 Welcome to my GitHub profile! I'm a full-stack developer with expertise in creating engaging user interfaces. I love turning ideas into reality through code and design.
 
