@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Surafel
 
-Welcome to my GitHub profile! I'm a full-stack developer with expertise in creating engaging user interfaces. I love turning ideas into reality through code and design.
+Welcome to my GitHub profile! I'm a full-stack software developer with expertise in Java, JavaScript, React.js, and Node.js. I love turning ideas into reality through code and design.
 
 ## 🚀 About Me
 
@@ -12,6 +12,6 @@ Welcome to my GitHub profile! I'm a full-stack developer with expertise in creat
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,nodejs,express,react,nextjs,redux,vue,sass,tailwind,bootstrap,mongodb,mysql,figma,xd,firebase,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,css,html,nodejs,express,react,redux,vue,sass,tailwind,bootstrap,mongodb,mysql,figma,xd,firebase,postman,linux&perline=20" height="40px" />
   </a>
 </div>
