@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Surafel
 
-Welcome to my GitHub profile! I'm a full-stack software developer with expertise in Java, JavaScript, React.js, and Node.js. I love turning ideas into reality through code and design.
+Welcome to my GitHub profile! I'm a Full-stack Software Engineer with expertise in Java, JavaScript, React.js, and Node.js. I love turning ideas into reality through code and design.
 
 ## 🚀 About Me
 
