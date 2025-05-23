@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Surafel
 
-Welcome to my GitHub profile! I'm a Full-stack Engineer with expertise in Java, JavaScript, React.js, and Node.js. I love turning ideas into reality through code and design.
+Welcome to my GitHub profile! I'm a Full-stack Software Engineer with expertise in Java, JavaScript, TypeScript, Node.js, React.js, SQL, MongoDB, and CI/CD pipelines. I love turning ideas into reality through code and design.
 
 ## 🚀 About Me
 
@@ -12,6 +12,6 @@ Welcome to my GitHub profile! I'm a Full-stack Engineer with expertise in Java, 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,css,html,nodejs,express,react,redux,vue,sass,tailwind,bootstrap,mongodb,mysql,figma,xd,firebase,postman,linux&perline=20" height="40px" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,express,react,css,html,tailwind,bootstrap,mysql,postgres,mongodb,linux,docker,postman,git,github,figma,xd&perline=20" height="40px" />
   </a>
 </div>
