@@ -12,6 +12,6 @@ Welcome to my GitHub profile! I'm a Full-stack Software Engineer with expertise 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,express,react,css,html,tailwind,bootstrap,mysql,postgres,mongodb,linux,docker,postman,git,github,figma,xd&perline=20" height="40px" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,express,nest,react,nextcss,html,tailwind,bootstrap,mysql,postgres,mongodb,linux,docker,postman,git,github,azure&perline=20" height="40px" />
   </a>
 </div>
