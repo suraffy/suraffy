@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Full-stack Software Engineer with expertise 
 ## 🚀 About Me
 
 - 💻 Full-Stack Engineer
-- 🌐 Explore my [Portfolio Website](https://suraffy.netlify.app)
+- 🌐 Explore my [Codepen](https://codepen.io/suraffy)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/surafel-araya)
 
 ## 🔧 Tech Proficiencies
