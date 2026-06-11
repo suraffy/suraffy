@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Surafel
 
-Welcome to my GitHub profile! I'm a Full-stack Software Engineer with expertise in Java, JavaScript, TypeScript, Node.js, React.js, SQL, MongoDB, and CI/CD pipelines. I love turning ideas into reality through code and design.
+Welcome to my GitHub profile! I'm a Senior Software Engineer with expertise in Java/Spring Boot, Node.js/NestJS, React.js/Next.js, PostgreSQL, Oracle, MongoDB, and CI/CD pipelines. I love turning ideas into reality through code and design.
 
 ## 🚀 About Me
 
