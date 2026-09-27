@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Surafel
 
-Welcome to my GitHub profile! I'm a Senior Software Engineer with expertise in Java/Spring Boot, Node.js/NestJS, React.js/Next.js, PostgreSQL, Oracle, MongoDB, and CI/CD pipelines. I love turning ideas into reality through code and design.
+I'm a **Senior Software Engineer** specializing in **backend development, system architecture, and scalable software systems**. I build production-ready systems and APIs with **Java/Spring Boot, Node.js/NestJS, React/Next.js, PostgreSQL, Oracle, Redis, Docker, and CI/CD**.
+
+I enjoy solving complex engineering problems and turning business requirements into **clean, reliable, and scalable solutions**.
 
 ## 🚀 About Me
 
@@ -12,6 +14,6 @@ Welcome to my GitHub profile! I'm a Senior Software Engineer with expertise in J
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,express,nest,react,next,tailwind,mysql,postgres,mongodb,linux,docker,postman,git,github,azure&perline=20" height="40px" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nest,nodejs,express,react,next,postgres,sqlite,linux,docker,git,github,azure,nginx,&perline=20" height="40px" />
   </a>
 </div>
