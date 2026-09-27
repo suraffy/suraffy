@@ -7,7 +7,6 @@ I enjoy solving complex engineering problems and turning business requirements i
 ## 🚀 About Me
 
 - 💻 Senior Backend Engineer
-- 🌐 Explore my [Codepen](https://codepen.io/suraffy)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/surafel-araya)
 
 ## 🔧 Tech Proficiencies
