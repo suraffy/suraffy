@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Senior Software Engineer with expertise in J
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Engineer
+- 💻 Senior Backend Engineer
 - 🌐 Explore my [Codepen](https://codepen.io/suraffy)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/surafel-araya)
 
