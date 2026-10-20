@@ -13,6 +13,6 @@ I enjoy solving complex engineering problems and turning business requirements i
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nest,nodejs,express,react,next,postgres,sqlite,linux,docker,git,github,azure,nginx,&perline=20" height="40px" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nest,nodejs,express,go,react,next,postgres,sqlite,linux,docker,git,github,azure,nginx,&perline=20" height="40px" />
   </a>
 </div>
